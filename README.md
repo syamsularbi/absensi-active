@@ -8,3 +8,4 @@ Penulisan
 - Robertus Yudho Saktiantoro
 - Rifqi Fauzi Rahmat
 - Soyid Agi Prasetio
+- Ricky Bayu Putra
