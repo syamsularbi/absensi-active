@@ -4,3 +4,4 @@ Penulisan
 
 - Wandi Pratama
 - Rivaldi Rizalul Akhsan
+- Robertus Yudho Saktiantoro
