@@ -10,3 +10,4 @@ Penulisan
 - Soyid Agi Prasetio
 - Rio Agus Permana
 - Roso Sasongko
+- Samuel Panjaitan
