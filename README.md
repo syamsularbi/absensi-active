@@ -6,3 +6,4 @@ Penulisan
 - Rivaldi Rizalul Akhsan
 - Robertus Yudho Saktiantoro
 - Rifqi Fauzi Rahmat
+- Yulian Deni Adhitama
