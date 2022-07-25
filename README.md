@@ -3,4 +3,4 @@
 Penulisan
 
 - Nama Peserta
-# Rifqi Fauzi Rahmat
+  - Rifqi Fauzi Rahmat
