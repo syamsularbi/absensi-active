@@ -12,3 +12,4 @@ Penulisan
 - Roso Sasongko
 - Samuel Panjaitan
 - Yulian Deni Adhitama
+- Ricky Bayu Putra
