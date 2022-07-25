@@ -2,4 +2,4 @@
 
 Penulisan
 
-- Nama Peserta
+- Wandi Pratama
