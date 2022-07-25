@@ -13,3 +13,4 @@ Penulisan
 - Samuel Panjaitan
 - Yulian Deni Adhitama
 - Ricky Bayu Putra
+- Robi Kurniawan
