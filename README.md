@@ -2,4 +2,4 @@
 
 Penulisan
 
-- Nama Peserta
+- Rivaldi Rizalul Akhsan
