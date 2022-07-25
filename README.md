@@ -2,5 +2,6 @@
 
 Penulisan
 
-- Nama Peserta
+- Wandi Pratama
+- Rivaldi Rizalul Akhsan
 - Robertus Yudho Saktiantoro
