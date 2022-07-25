@@ -7,6 +7,7 @@ Penulisan
 - Rivaldi Rizalul Akhsan
 - Robertus Yudho Saktiantoro
 - Rifqi Fauzi Rahmat
+- wardi
 - Soyid Agi Prasetio
 - Rio Agus Permana
 - Roso Sasongko
@@ -14,3 +15,4 @@ Penulisan
 - Yulian Deni Adhitama
 - Ricky Bayu Putra
 - Robi Kurniawan
+
