@@ -11,3 +11,4 @@ Penulisan
 - Rio Agus Permana
 - Roso Sasongko
 - Samuel Panjaitan
+- Yulian Deni Adhitama
